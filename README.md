@@ -5,4 +5,4 @@ projeto-final-alp2021-campo-minado created by GitHub Classroom
 
 Professor: Breno Leonardo
 
-Alunos: ....
+Alunos: Maria Clara, Maria Eduarda, José Rômulo, Maílla Costa, Bárbara Barros
